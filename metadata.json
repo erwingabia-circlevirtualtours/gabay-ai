@@ -1,0 +1,6 @@
+{
+  "name": "Child Protection Guidance Assistant",
+  "description": "An interactive child protection laws handbook and supportive guidance assistant for Filipino minors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
